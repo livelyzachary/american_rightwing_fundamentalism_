@@ -14,14 +14,9 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This repository was gathered to help researchers understand the complexities of right wing fundamentalist behaviors and propaganda. For those wishing to understand and critique these groups, it's important to understand how they operate. This collection includes:
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+- Propaganda spread and produced by rightwing groups
+- Newspapers chronicling rightwing activity
+- Reactions responses to rightwing ideology
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
