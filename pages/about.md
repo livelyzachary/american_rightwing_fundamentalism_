@@ -18,5 +18,5 @@ This repository was gathered to help researchers understand the complexities of 
 
 - Propaganda spread and produced by rightwing groups
 - Newspapers chronicling rightwing activity
-- Reactions responses to rightwing ideology
+- Reactions and responses to rightwing ideology
 
